@@ -10,8 +10,6 @@ namespace FL2025_Assignment1_wcreech
             app.UseDefaultFiles();
             app.UseStaticFiles();
 
-            app.MapGet("/", () => "Hello World!");
-
             app.Run();
         }
     }
