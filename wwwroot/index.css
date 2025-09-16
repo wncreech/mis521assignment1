@@ -1,0 +1,45 @@
+﻿body {
+    background-color: midnightblue;
+}
+img {
+    border-radius: 50%;
+    width: 400px;
+    height: 600px;
+}
+.container {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Title, .Rating, a {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: gold;
+    letter-spacing: 0.1em;
+}
+
+.Title {
+    font-size: 48px;
+}
+
+.Rating{
+    font-size: 32px;
+}
+
+.a {
+    font-size: 16px;
+}
+
+
+.Summary, ul {
+    font-family; Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1.6; 
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
